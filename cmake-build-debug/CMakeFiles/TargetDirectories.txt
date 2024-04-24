@@ -1,0 +1,3 @@
+L:/Users/Fantik/YandexDisk/Project C++/Assistant/cmake-build-debug/CMakeFiles/Assistant.dir
+L:/Users/Fantik/YandexDisk/Project C++/Assistant/cmake-build-debug/CMakeFiles/edit_cache.dir
+L:/Users/Fantik/YandexDisk/Project C++/Assistant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
