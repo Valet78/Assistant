@@ -3,4 +3,4 @@ project(Assistant)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Assistant main.cpp header.h)
+add_executable(Assistant main.cpp header.h fileWork.cpp)
